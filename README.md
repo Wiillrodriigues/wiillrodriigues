@@ -1,6 +1,6 @@
 ## Olá eu sou William do Amaral Rodrigues
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas.
-- 🎓 Faculdade Impacta - FIT 3º semestre.
+- 🎓 Faculdade Impacta - FIT 4º semestre.
 - 🏠 Atualmente morando em São Paulo -SP.
 - 😄 Pronouns: ele/dele.
 <div align="center">
