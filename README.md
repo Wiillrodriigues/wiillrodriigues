@@ -4,8 +4,8 @@
 - 🔭 Futuro Front-end Developer
 - 🏠 Atualmente morando em São Paulo -SP.
 - 😄 Pronouns: ele/dele.
-<div align="center">
     ![Snake animation](https://github.com/wiillrodriiguesi/wiillrodriigues/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
   <a href="https://github.com/wiillrodriigues">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=wiillrodriigues&show_icons=true&theme=highcontrast&includ_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiillrodriigues&layout=compact&langs_count=7&theme=highcontrast"/>
